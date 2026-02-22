@@ -141,6 +141,7 @@ html {
   margin: 1rem;
   position: relative;
   left: 0;
+  top: 0;
   cursor: pointer;
   bottom: 0.75rem;
   cursor: pointer;
@@ -150,7 +151,7 @@ html {
 .share_popup {
   position: absolute;
   left: 0;
-  bottom: -3rem;
+  bottom: -4rem;
   width: 20.438rem;
   height: 4.5rem;
   background-color: var(--header-color);
